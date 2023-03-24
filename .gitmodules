@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "CatDyn"]
+	path = CatDyn
+	url = https://github.com/cran/CatDyn
+	shallow = true
+	registered = true
+[submodule "LifeHist"]
+	path = LifeHist
+	url = https://github.com/cran/LifeHist
+	shallow = true
+	registered = true
